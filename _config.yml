@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mkulczewski.github.io
+title: mkulczewski
+paginate: 10
